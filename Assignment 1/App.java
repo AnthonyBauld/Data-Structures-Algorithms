@@ -1,9 +1,10 @@
 package proj;
 
 /**
- * I Anthony Bauld, 000754334 certify that this material is my original work. No other person's work has been used without due acknowledgement. 
+ * I Anthony Bauld, certify that this material is my original work. No other person's work has been used without due acknowledgement. 
  * I have not made my work available to anyone else.
- * @author Anthony Bauld - 000754334
+ *
+ * @author Anthony Bauld 
  */
 public class App {
     public static void main(String[] args) {
