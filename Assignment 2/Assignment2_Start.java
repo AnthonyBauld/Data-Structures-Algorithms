@@ -1,6 +1,4 @@
 /**
- * Comp10205 - Sorting Assignment
- *
  * Some of the sort code from courseWare textbook - Copyright, All rights reserved.
  * Additional code added by C. Mark Yendt in May 2014 August 2019
  * ADD Your Authorship and answers to Questions here :
