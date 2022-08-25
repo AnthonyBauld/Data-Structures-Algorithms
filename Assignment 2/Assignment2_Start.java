@@ -1,9 +1,4 @@
 /**
- * Some of the sort code from courseWare textbook - Copyright, All rights reserved.
- * Additional code added by C. Mark Yendt in May 2014 August 2019
- * ADD Your Authorship and answers to Questions here :
- *
- * Assignment #2 - Part 6
  *
  * The algorithms for the sorting methods defined in Main are as follows::
  * aSort = Quick Sort (recursive with midpoint as pivot)
@@ -97,9 +92,10 @@
 import java.util.Arrays;
 
 /**
- * I Anthony Bauld, 000754334 certify that this material is my original work. No other person's work has been used without due acknowledgement. 
+ * I Anthony Bauld, certify that this material is my original work. No other person's work has been used without due acknowledgement. 
  * I have not made my work available to anyone else.
- * @author Anthony Bauld - 000754334
+ *
+ * @author Anthony Bauld 
  */
 public class Assignment2_Start {
     /**
